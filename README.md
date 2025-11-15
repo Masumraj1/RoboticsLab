@@ -22,3 +22,4 @@
   7. Led
   8. Connecting wire
   9. Soldering Rojon Fluxing
+  10. 
